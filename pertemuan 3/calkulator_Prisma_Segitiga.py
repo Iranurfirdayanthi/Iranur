@@ -62,7 +62,7 @@ frame = Frame(app)
 frame.pack(padx=20, pady=20)
 
 # Label Nama dan nim
-sisi1 = Label(frame, text="Fadillah Dian Firdaus_220511081")
+sisi1 = Label(frame, text="Ira Nur Firdayanthi_220511142")
 sisi1.grid(row=0, column=1, sticky=W, padx=5, pady=5)
 
 # Label Sisi 1
